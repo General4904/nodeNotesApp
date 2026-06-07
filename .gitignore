@@ -1,0 +1,12 @@
+# Dependency folders
+node_modules/
+
+# Local data / database files (keeps your private notes off GitHub)
+notes.json
+
+# Environment variables (for security keys you might add later)
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
